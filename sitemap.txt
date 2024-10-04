@@ -1,6 +1,7 @@
-http://example.com/about/index.html
-http://example.com/tags/index.html
+http://example.com/wiki/
 http://example.com/categories/index.html
-http://example.com/wiki/_posts/About-Me/
-http://example.com/wiki/_posts/hello-world/
+http://example.com/tags/index.html
+http://example.com/about/index.html
+http://example.com/wiki/
+http://example.com/wiki/
 http://example.com/
