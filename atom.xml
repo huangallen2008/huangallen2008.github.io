@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Allen Wiki</title>
+  <title>Hexo</title>
   
   
-  <link href="http://huangallen2008.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://huangallen2008.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2024-10-04T13:28:31.410Z</updated>
-  <id>http://huangallen2008.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
-    <name>Allen Huang</name>
+    <name>John Doe</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About Me</title>
-    <link href="http://huangallen2008.github.io/source/About-Me/"/>
-    <id>http://huangallen2008.github.io/source/About-Me/</id>
+    <link href="http://example.com/2024/10/04/About-Me/"/>
+    <id>http://example.com/2024/10/04/About-Me/</id>
     <published>2024-10-04T13:28:31.000Z</published>
     <updated>2024-10-04T13:28:31.410Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://huangallen2008.github.io/source/hello-world/"/>
-    <id>http://huangallen2008.github.io/source/hello-world/</id>
+    <link href="http://example.com/2024/10/04/hello-world/"/>
+    <id>http://example.com/2024/10/04/hello-world/</id>
     <published>2024-10-04T10:35:24.677Z</published>
     <updated>2024-10-04T10:35:24.677Z</updated>
     
