@@ -22,21 +22,21 @@
     <meta name="description" content="参考资料">
 <meta property="og:type" content="article">
 <meta property="og:title" content="helloworld">
-<meta property="og:url" content="http://huangallen.github.io/wiki/helloworld/helloworld.md">
+<meta property="og:url" content="http://huangallen.github.io/wiki/_post/helloworld.md">
 <meta property="og:site_name" content="huangallen 的競程筆記">
 <meta property="og:description" content="参考资料">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2024-10-04T15:24:13.000Z">
-<meta property="article:modified_time" content="2024-10-04T15:24:13.098Z">
+<meta property="article:published_time" content="2024-10-04T15:26:31.000Z">
+<meta property="article:modified_time" content="2024-10-04T15:26:31.339Z">
 <meta property="article:author" content="Allen Huang">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://huangallen.github.io/wiki/helloworld/helloworld.md">
+<link rel="canonical" href="http://huangallen.github.io/wiki/_post/helloworld.md">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/wiki/helloworld/helloworld.md","path":"wiki/helloworld/helloworld.md","title":"helloworld"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/wiki/_post/helloworld.md","path":"wiki/_post/helloworld.md","title":"helloworld"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>helloworld | huangallen 的競程筆記</title>
@@ -146,7 +146,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://huangallen.github.io/wiki/helloworld/helloworld.md">
+    <link itemprop="mainEntityOfPage" href="http://huangallen.github.io/wiki/_post/helloworld.md">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -164,7 +164,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          helloworld<a href="https://github.com/huangallen2008/huangallen2008.github.io/edit/main/wiki/:title/_posts/helloworld.md" class="post-edit-link" title="Edit this post" rel="noopener" target="_blank"><i class="fa fa-pen-nib"></i></a>
+          helloworld<a href="https://github.com/huangallen2008/huangallen2008.github.io/edit/main/wiki/_posts/helloworld.md" class="post-edit-link" title="Edit this post" rel="noopener" target="_blank"><i class="fa fa-pen-nib"></i></a>
         </h1>
 
         <div class="post-meta-container">
@@ -175,7 +175,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2024-10-04 23:24:13" itemprop="dateCreated datePublished" datetime="2024-10-04T23:24:13+08:00">2024-10-04</time>
+      <time title="Created: 2024-10-04 23:26:31" itemprop="dateCreated datePublished" datetime="2024-10-04T23:26:31+08:00">2024-10-04</time>
     </span>
 
   
@@ -206,7 +206,7 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/wiki/hello-world/hello-world.md" rel="prev" title="Hello World">
+                <a href="/wiki/_post/hello-world.md" rel="prev" title="Hello World">
                   <i class="fa fa-angle-left"></i> Hello World
                 </a>
             </div>

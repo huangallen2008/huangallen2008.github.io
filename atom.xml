@@ -6,7 +6,7 @@
   <link href="http://huangallen.github.io/atom.xml" rel="self"/>
   
   <link href="http://huangallen.github.io/"/>
-  <updated>2024-10-04T15:24:13.098Z</updated>
+  <updated>2024-10-04T15:26:31.339Z</updated>
   <id>http://huangallen.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>helloworld</title>
-    <link href="http://huangallen.github.io/wiki/helloworld/helloworld.md"/>
-    <id>http://huangallen.github.io/wiki/helloworld/helloworld.md</id>
-    <published>2024-10-04T15:24:13.000Z</published>
-    <updated>2024-10-04T15:24:13.098Z</updated>
+    <link href="http://huangallen.github.io/wiki/_post/helloworld.md"/>
+    <id>http://huangallen.github.io/wiki/_post/helloworld.md</id>
+    <published>2024-10-04T15:26:31.000Z</published>
+    <updated>2024-10-04T15:26:31.339Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://huangallen.github.io/wiki/hello-world/hello-world.md"/>
-    <id>http://huangallen.github.io/wiki/hello-world/hello-world.md</id>
+    <link href="http://huangallen.github.io/wiki/_post/hello-world.md"/>
+    <id>http://huangallen.github.io/wiki/_post/hello-world.md</id>
     <published>2024-10-04T10:35:24.677Z</published>
     <updated>2024-10-04T10:35:24.677Z</updated>
     
