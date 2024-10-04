@@ -155,7 +155,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-count">3</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -265,11 +265,11 @@
 
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href></a></li>
+<li><a href></a></li>
 </ul>
 </blockquote>
-
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>
     </div>
 
     
@@ -287,6 +287,9 @@
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28" rel="next" title="第八屆YTP國中組 2023/7/28">
+                  第八屆YTP國中組 2023/7/28 <i class="fa fa-angle-right"></i>
+                </a>
             </div>
           </div>
     </footer>
@@ -317,13 +320,13 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-line"></i>
     </span>
-    <span title="Word count total">0k</span>
+    <span title="Word count total">17k</span>
   </span>
   <span class="post-meta-item">
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">1 mins.</span>
+    <span title="Reading time total">16 mins.</span>
   </span>
 </div>
   <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/pisces/" rel="noopener" target="_blank">NexT.Pisces</a>
