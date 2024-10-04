@@ -18,8 +18,8 @@
   
   <entry>
     <title>helloworld</title>
-    <link href="http://example.com/wiki/"/>
-    <id>http://example.com/wiki/</id>
+    <link href="http://example.com/wiki/helloworld/"/>
+    <id>http://example.com/wiki/helloworld/</id>
     <published>2024-10-04T15:10:34.000Z</published>
     <updated>2024-10-04T15:10:34.368Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>About Me</title>
-    <link href="http://example.com/wiki/"/>
-    <id>http://example.com/wiki/</id>
+    <link href="http://example.com/wiki/About-Me/"/>
+    <id>http://example.com/wiki/About-Me/</id>
     <published>2024-10-04T13:28:31.000Z</published>
     <updated>2024-10-04T13:28:31.410Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/wiki/"/>
-    <id>http://example.com/wiki/</id>
+    <link href="http://example.com/wiki/hello-world/"/>
+    <id>http://example.com/wiki/hello-world/</id>
     <published>2024-10-04T10:35:24.677Z</published>
     <updated>2024-10-04T10:35:24.677Z</updated>
     
