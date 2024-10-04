@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huangallen2008.github.io/about/index.html</loc>
+    
+    <lastmod>2024-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://huangallen2008.github.io/categories/index.html</loc>
     
     <lastmod>2024-10-04</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://huangallen2008.github.io/about/index.html</loc>
+    <loc>http://huangallen2008.github.io/source/About-Me/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -29,16 +38,7 @@
   </url>
   
   <url>
-    <loc>http://huangallen2008.github.io/wiki/About-Me/</loc>
-    
-    <lastmod>2024-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://huangallen2008.github.io/wiki/hello-world/</loc>
+    <loc>http://huangallen2008.github.io/source/hello-world/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
