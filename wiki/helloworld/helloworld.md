@@ -17,26 +17,26 @@
 <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free@6.6.0/css/all.min.css" integrity="sha256-5eIC48iZUHmSlSUz9XtjRyK2mzQkHScZY1WdMaoz74E=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/animate.css@3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.21.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"huangallen.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.21.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="参考资料">
 <meta property="og:type" content="article">
 <meta property="og:title" content="helloworld">
-<meta property="og:url" content="http://example.com/wiki/helloworld/index.html">
+<meta property="og:url" content="http://huangallen.github.io/wiki/helloworld/helloworld.md">
 <meta property="og:site_name" content="huangallen 的競程筆記">
 <meta property="og:description" content="参考资料">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2024-10-04T15:10:34.000Z">
-<meta property="article:modified_time" content="2024-10-04T15:10:34.368Z">
+<meta property="article:published_time" content="2024-10-04T15:24:13.000Z">
+<meta property="article:modified_time" content="2024-10-04T15:24:13.098Z">
 <meta property="article:author" content="Allen Huang">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/wiki/helloworld/">
+<link rel="canonical" href="http://huangallen.github.io/wiki/helloworld/helloworld.md">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/wiki/helloworld/","path":"wiki/helloworld/","title":"helloworld"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/wiki/helloworld/helloworld.md","path":"wiki/helloworld/helloworld.md","title":"helloworld"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>helloworld | huangallen 的競程筆記</title>
@@ -118,7 +118,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">2</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -146,7 +146,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/wiki/helloworld/">
+    <link itemprop="mainEntityOfPage" href="http://huangallen.github.io/wiki/helloworld/helloworld.md">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -175,7 +175,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2024-10-04 23:10:34" itemprop="dateCreated datePublished" datetime="2024-10-04T23:10:34+08:00">2024-10-04</time>
+      <time title="Created: 2024-10-04 23:24:13" itemprop="dateCreated datePublished" datetime="2024-10-04T23:24:13+08:00">2024-10-04</time>
     </span>
 
   
@@ -206,8 +206,8 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/wiki/About-Me/" rel="prev" title="About Me">
-                  <i class="fa fa-angle-left"></i> About Me
+                <a href="/wiki/hello-world/hello-world.md" rel="prev" title="Hello World">
+                  <i class="fa fa-angle-left"></i> Hello World
                 </a>
             </div>
             <div class="post-nav-item">

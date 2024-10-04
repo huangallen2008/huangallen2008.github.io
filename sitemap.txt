@@ -1,7 +1,6 @@
-http://example.com/wiki/helloworld/
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/about/index.html
-http://example.com/wiki/About-Me/
-http://example.com/wiki/hello-world/
-http://example.com/
+http://huangallen.github.io/wiki/helloworld/helloworld.md
+http://huangallen.github.io/tags/index.html
+http://huangallen.github.io/about/index.html
+http://huangallen.github.io/categories/index.html
+http://huangallen.github.io/wiki/hello-world/hello-world.md
+http://huangallen.github.io/

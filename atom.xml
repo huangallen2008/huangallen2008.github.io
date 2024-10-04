@@ -3,11 +3,11 @@
   <title>huangallen 的競程筆記</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://huangallen.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-10-04T15:10:34.368Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://huangallen.github.io/"/>
+  <updated>2024-10-04T15:24:13.098Z</updated>
+  <id>http://huangallen.github.io/</id>
   
   <author>
     <name>Allen Huang</name>
@@ -18,33 +18,10 @@
   
   <entry>
     <title>helloworld</title>
-    <link href="http://example.com/wiki/helloworld/"/>
-    <id>http://example.com/wiki/helloworld/</id>
-    <published>2024-10-04T15:10:34.000Z</published>
-    <updated>2024-10-04T15:10:34.368Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About Me</title>
-    <link href="http://example.com/wiki/About-Me/"/>
-    <id>http://example.com/wiki/About-Me/</id>
-    <published>2024-10-04T13:28:31.000Z</published>
-    <updated>2024-10-04T13:28:31.410Z</updated>
+    <link href="http://huangallen.github.io/wiki/helloworld/helloworld.md"/>
+    <id>http://huangallen.github.io/wiki/helloworld/helloworld.md</id>
+    <published>2024-10-04T15:24:13.000Z</published>
+    <updated>2024-10-04T15:24:13.098Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
@@ -64,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/wiki/hello-world/"/>
-    <id>http://example.com/wiki/hello-world/</id>
+    <link href="http://huangallen.github.io/wiki/hello-world/hello-world.md"/>
+    <id>http://huangallen.github.io/wiki/hello-world/hello-world.md</id>
     <published>2024-10-04T10:35:24.677Z</published>
     <updated>2024-10-04T10:35:24.677Z</updated>
     
