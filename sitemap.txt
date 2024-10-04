@@ -1,6 +1,6 @@
+http://huangallen.github.io/wiki/hello-world
 http://huangallen.github.io/wiki/helloworld
 http://huangallen.github.io/about/
-http://huangallen.github.io/tags/
 http://huangallen.github.io/categories/
-http://huangallen.github.io/wiki/hello-world
+http://huangallen.github.io/tags/
 http://huangallen.github.io/
