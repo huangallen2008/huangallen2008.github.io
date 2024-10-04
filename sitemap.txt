@@ -1,6 +1,6 @@
-http://example.com/categories/index.html
-http://example.com/tags/index.html
 http://example.com/about/index.html
-http://example.com/2024/10/04/About-Me/
-http://example.com/2024/10/04/hello-world/
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/wiki/About-Me/
+http://example.com/wiki/hello-world/
 http://example.com/

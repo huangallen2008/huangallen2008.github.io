@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>huangallen 的競程筆記</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Allen Huang</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About Me</title>
-    <link href="http://example.com/2024/10/04/About-Me/"/>
-    <id>http://example.com/2024/10/04/About-Me/</id>
+    <link href="http://example.com/wiki/About-Me/"/>
+    <id>http://example.com/wiki/About-Me/</id>
     <published>2024-10-04T13:28:31.000Z</published>
     <updated>2024-10-04T13:28:31.410Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/10/04/hello-world/"/>
-    <id>http://example.com/2024/10/04/hello-world/</id>
+    <link href="http://example.com/wiki/hello-world/"/>
+    <id>http://example.com/wiki/hello-world/</id>
     <published>2024-10-04T10:35:24.677Z</published>
     <updated>2024-10-04T10:35:24.677Z</updated>
     
