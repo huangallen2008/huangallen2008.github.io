@@ -1,6 +1,6 @@
-http://huangallen.github.io/wiki/_post/helloworld.md
-http://huangallen.github.io/categories/index.html
+http://huangallen.github.io/wiki/_posts/helloworld.md
 http://huangallen.github.io/about/index.html
+http://huangallen.github.io/categories/index.html
 http://huangallen.github.io/tags/index.html
-http://huangallen.github.io/wiki/_post/hello-world.md
+http://huangallen.github.io/wiki/_posts/hello-world.md
 http://huangallen.github.io/
