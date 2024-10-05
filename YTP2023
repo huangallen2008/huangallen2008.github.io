@@ -24,13 +24,13 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="第八屆YTP國中組 2023&#x2F;7&#x2F;28">
 <meta property="og:url" content="http://huangallen.github.io/YTP2023">
-<meta property="og:site_name" content="huangallen 的競程筆記">
+<meta property="og:site_name" content="huangallen&#39;s blog">
 <meta property="og:description" content="第八屆YTP國中組 比賽心得&#x2F;題目">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://hackmd.io/_uploads/HJUNgmMjn.jpg">
 <meta property="article:published_time" content="2024-10-04T17:16:09.000Z">
 <meta property="article:modified_time" content="2024-10-05T02:40:31.924Z">
-<meta property="article:author" content="Allen Huang">
+<meta property="article:author" content="Allen Huang 黃宇綸">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://hackmd.io/_uploads/HJUNgmMjn.jpg">
 
@@ -42,7 +42,7 @@
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/YTP2023","path":"YTP2023","title":"第八屆YTP國中組 2023/7/28"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>第八屆YTP國中組 2023/7/28 | huangallen 的競程筆記</title>
+<title>第八屆YTP國中組 2023/7/28 | huangallen's blog</title>
   
 
 
@@ -55,7 +55,7 @@
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
-<link rel="alternate" href="/atom.xml" title="huangallen 的競程筆記" type="application/atom+xml">
+<link rel="alternate" href="/atom.xml" title="huangallen's blog" type="application/atom+xml">
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
@@ -76,7 +76,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <p class="site-title">huangallen 的競程筆記</p>
+      <p class="site-title">huangallen's blog</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -148,9 +148,9 @@
 
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="Allen Huang"
+    <img class="site-author-image" itemprop="image" alt="Allen Huang 黃宇綸"
       src="/images/avatar.jpg">
-  <p class="site-author-name" itemprop="name">Allen Huang</p>
+  <p class="site-author-name" itemprop="name">Allen Huang 黃宇綸</p>
   <div class="site-description" itemprop="description"></div>
 </div>
 <div class="site-state-wrap animated">
@@ -209,16 +209,16 @@
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Allen Huang">
+      <meta itemprop="name" content="Allen Huang 黃宇綸">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="huangallen 的競程筆記">
+      <meta itemprop="name" content="huangallen's blog">
       <meta itemprop="description" content="">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="第八屆YTP國中組 2023/7/28 | huangallen 的競程筆記">
+      <meta itemprop="name" content="第八屆YTP國中組 2023/7/28 | huangallen's blog">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
@@ -450,7 +450,7 @@
     <span class="with-love">
       <i class="fa fa-heart"></i>
     </span>
-    <span class="author" itemprop="copyrightHolder">Allen Huang</span>
+    <span class="author" itemprop="copyrightHolder">Allen Huang 黃宇綸</span>
   </div>
 <div class="wordcount">
   <span class="post-meta-item">

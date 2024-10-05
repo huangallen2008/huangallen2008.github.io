@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>huangallen 的競程筆記</title>
+  <title>huangallen&#39;s blog</title>
   
   
   <link href="http://huangallen.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://huangallen.github.io/</id>
   
   <author>
-    <name>Allen Huang</name>
+    <name>Allen Huang 黃宇綸</name>
     
   </author>
   
