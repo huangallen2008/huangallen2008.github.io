@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28</loc>
+    <loc>http://huangallen.github.io/YTP2023</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangallen.github.io/hello-world</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://huangallen.github.io/wiki/hello-world</loc>
-    
-    <lastmod>2024-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://huangallen.github.io/wiki/helloworld</loc>
+    <loc>http://huangallen.github.io/helloworld</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://huangallen.github.io/categories/</loc>
+    <loc>http://huangallen.github.io/tags/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://huangallen.github.io/tags/</loc>
+    <loc>http://huangallen.github.io/categories/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://huangallen.github.io/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

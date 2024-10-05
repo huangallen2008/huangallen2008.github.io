@@ -1,7 +1,7 @@
-http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28
-http://huangallen.github.io/wiki/hello-world
-http://huangallen.github.io/wiki/helloworld
+http://huangallen.github.io/YTP2023
+http://huangallen.github.io/hello-world
+http://huangallen.github.io/helloworld
 http://huangallen.github.io/about/
-http://huangallen.github.io/categories/
 http://huangallen.github.io/tags/
+http://huangallen.github.io/categories/
 http://huangallen.github.io/

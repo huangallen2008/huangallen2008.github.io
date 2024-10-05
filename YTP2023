@@ -23,23 +23,23 @@
     <meta name="description" content="第八屆YTP國中組 比賽心得&#x2F;題目">
 <meta property="og:type" content="article">
 <meta property="og:title" content="第八屆YTP國中組 2023&#x2F;7&#x2F;28">
-<meta property="og:url" content="http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28">
+<meta property="og:url" content="http://huangallen.github.io/YTP2023">
 <meta property="og:site_name" content="huangallen 的競程筆記">
 <meta property="og:description" content="第八屆YTP國中組 比賽心得&#x2F;題目">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://hackmd.io/_uploads/HJUNgmMjn.jpg">
 <meta property="article:published_time" content="2024-10-04T17:16:09.000Z">
-<meta property="article:modified_time" content="2024-10-04T18:11:36.526Z">
+<meta property="article:modified_time" content="2024-10-05T02:40:31.924Z">
 <meta property="article:author" content="Allen Huang">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://hackmd.io/_uploads/HJUNgmMjn.jpg">
 
 
-<link rel="canonical" href="http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28">
+<link rel="canonical" href="http://huangallen.github.io/YTP2023">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28","path":"wiki/第八屆YTP國中組-2023-7-28","title":"第八屆YTP國中組 2023/7/28"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://huangallen.github.io/YTP2023","path":"YTP2023","title":"第八屆YTP國中組 2023/7/28"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>第八屆YTP國中組 2023/7/28 | huangallen 的競程筆記</title>
@@ -196,7 +196,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://huangallen.github.io/wiki/%E7%AC%AC%E5%85%AB%E5%B1%86YTP%E5%9C%8B%E4%B8%AD%E7%B5%84-2023-7-28">
+    <link itemprop="mainEntityOfPage" href="http://huangallen.github.io/YTP2023">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -226,7 +226,7 @@
       <span class="post-meta-item-text">Posted on</span>
       
 
-      <time title="Created: 2024-10-05 01:16:09 / Modified: 02:11:36" itemprop="dateCreated datePublished" datetime="2024-10-05T01:16:09+08:00">2024-10-05</time>
+      <time title="Created: 2024-10-05 01:16:09 / Modified: 10:40:31" itemprop="dateCreated datePublished" datetime="2024-10-05T01:16:09+08:00">2024-10-05</time>
     </span>
 
   
@@ -410,11 +410,14 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/wiki/helloworld" rel="prev" title="helloworld">
+                <a href="/helloworld" rel="prev" title="helloworld">
                   <i class="fa fa-angle-left"></i> helloworld
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/hello-world" rel="next" title="Hello World">
+                  Hello World <i class="fa fa-angle-right"></i>
+                </a>
             </div>
           </div>
     </footer>
