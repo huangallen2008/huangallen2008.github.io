@@ -2,6 +2,6 @@ http://huangallen.github.io/YTP2023
 http://huangallen.github.io/hello-world
 http://huangallen.github.io/helloworld
 http://huangallen.github.io/about/
-http://huangallen.github.io/tags/
 http://huangallen.github.io/categories/
+http://huangallen.github.io/tags/
 http://huangallen.github.io/
